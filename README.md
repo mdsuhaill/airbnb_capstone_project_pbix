@@ -3,13 +3,18 @@ Airbnb Price & Scenario Analysis Dashboard
 ________________________________________
 📌 Project Overview
 This project presents an interactive Power BI dashboard built to analyse Airbnb listings in Antwerp. The dashboard helps property owners and stakeholders evaluate listing performance, price trends, and projected revenues under different scenarios — without relying on machine learning.
+
 The solution enables users to:
 •	Track average prices, availability, review counts, and projected revenue.
+
 •	Explore scenario-based insights using What-If parameters for occupancy and seasonal multipliers.
+
 •	Visualise listings through maps, price distributions, and trend charts.
+
 •	Drill down into top-performing listings and review details.
 ________________________________________
 🎯 Problem Statement
+
 As defined in the project scope:
 Develop a Power BI dashboard for Airbnb listings in Antwerp that provides self-service insights into listing performance and revenue projections. The dashboard should allow dynamic scenario analysis with interactive filters and “What-If” parameters.
 ________________________________________
@@ -56,10 +61,15 @@ ________________________________________
 👥 Contributors
 This project was collaboratively developed by:
 •	Chinta Dileep Chandra
+
 •	Suhail
+
 •	Vikranth Singh
+
 •	Priyanka Gupta
+
 •	Rohit Sharma
+
 •	Nikitta Natraj
 ________________________________________
 📂 Repository Structure
