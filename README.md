@@ -41,21 +41,31 @@ o	User guide with navigation, DAX formulas, and data model documentation.
 ________________________________________
 📊 Dashboard Snapshots
 Example KPIs from the dashboard:
+
 •	Average Price: $109.92
+
 •	Availability Rate: 53.52%
+
 •	Total Listings: 1,749
+
 •	Projected Revenue: $13.50M
 ________________________________________
 👩‍💻 Tech Stack
 •	Power BI Desktop & Service
+
 •	DAX for measures and scenario calculations
+
 •	Star Schema Data Modelling
+
 •	Azure Maps Integration for geo-visualizations
 ________________________________________
 🚀 How to Use
-1.	Open the .pbix file in Power BI Desktop.
+1.	Open the .pbix file in Power BI Desktop. 
+
 2.	Navigate through the three report pages (Overview → Listing Analysis → Scenario Insights).
+
 3.	Adjust the What-If parameters (Occupancy Rate & Seasonal Multiplier) to see real-time revenue impact.
+
 4.	Use slicers (Date, Property Type, Room Type) for interactive filtering.
 ________________________________________
 👥 Contributors
