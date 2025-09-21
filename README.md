@@ -82,12 +82,6 @@ This project was collaboratively developed by:
 
 •	Nikitta Natraj
 ________________________________________
-📂 Repository Structure
-Capstone Project_CPDA_B3_Group1.pdf – Final Dashboard report
-Problem_Statement.pdf – Project requirements
-README.md – Project documentation
-/pbix-file/ – Power BI .pbix file (if shared)
-________________________________________
 🏆 Outcome
 A self-service Power BI solution empowering stakeholders to:
 •	Analyze Airbnb listing trends.
